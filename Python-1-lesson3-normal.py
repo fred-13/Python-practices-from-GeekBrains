@@ -12,7 +12,7 @@ def read_file(db):
     for i in range(len(db)):
         x = db[i].split(' - ')
         if int(x[1]) < 500000:
-            print(x[0] + " - " + str((int(x[1]) * 0.87)))
+            print(x[0].upper() + " - " + str((int(x[1]) * 0.87)))
 
 humans_list = ['Petr', 'Vasya', 'Ruslan', 'Ivan', 'Timur', 'Oleg', 'Andrey', 'Egor', 'Ilya']
 wages_list = [5000, 12000, 110000, 10000, 250000, 9000, 15000, 500000, 14000]
