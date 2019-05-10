@@ -1,0 +1,9 @@
+Petr - 5000
+Vasya - 12000
+Ruslan - 110000
+Ivan - 10000
+Timur - 250000
+Oleg - 9000
+Andrey - 15000
+Egor - 500000
+Ilya - 14000
