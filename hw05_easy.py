@@ -7,9 +7,9 @@ print("---------------------Task-1--------------------------\n")
 key = input("Введите 1 - если хотите создать директории, 2 - если удалить их: ")
 
 if key == '1':
-    add_dirs()
+    add_dirs("dir_", 10)
 elif key == '2':
-    remove_dirs()
+    remove_dirs("dir_", 10)
 else:
     print("Вы не сделали выбор")
 
@@ -17,7 +17,7 @@ print("\n-----------------------------------------------------\n")
 
 print("---------------------Task-2--------------------------\n")
 
-print([x[0] for x in os.walk(os.getcwd())])
+print([d for d in os.listdir(os.getcwd()) if os.path.isdir(d)])
 
 print("\n-----------------------------------------------------\n")
 
