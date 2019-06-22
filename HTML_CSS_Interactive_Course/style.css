@@ -92,3 +92,27 @@ h1 {
 .table_tovar td {
 	border: 1px solid #000;
 }
+
+.registration{
+    width: max-content;
+}
+.registration div {
+    margin-bottom: 5px;
+    height: 35px;
+    text-align: right;
+}
+
+.registration input {
+    height: 25px;
+    text-align-last: center;
+    font-size: 15px;
+}
+
+.registration input:focus {
+    color: darkblue;
+    border-color: darkblue;
+}
+
+.registration input[name="name"]:focus {
+    text-transform: capitalize;
+}
