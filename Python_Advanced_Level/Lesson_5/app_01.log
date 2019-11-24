@@ -1,0 +1,19 @@
+INFO 2019-10-14 22:27:24,636 Hello, World!
+WARNING 2019-10-14 22:27:24,637 It seems to be a bug...
+CRITICAL 2019-10-14 22:27:24,637 Critical bug in app! Hello, World!
+DEBUG 2019-10-14 22:29:39,531 There will be debug information
+INFO 2019-10-14 22:29:39,531 Hello, World!
+WARNING 2019-10-14 22:29:39,531 It seems to be a bug...
+CRITICAL 2019-10-14 22:29:39,531 Critical bug in app! Hello, World!
+DEBUG 2019-10-31 14:49:26,807 There will be debug information
+INFO 2019-10-31 14:49:26,807 Hello, World!
+WARNING 2019-10-31 14:49:26,807 It seems to be a bug...
+CRITICAL 2019-10-31 14:49:26,808 Critical bug in app! Hello, World!
+DEBUG 2019-10-31 14:50:32,450 There will be debug information
+INFO 2019-10-31 14:50:32,450 Hello, World!
+WARNING 2019-10-31 14:50:32,450 It seems to be a bug...
+CRITICAL 2019-10-31 14:50:32,450 Critical bug in app! Hello, World!
+DEBUG 2019-10-31 14:50:39,457 There will be debug information
+INFO 2019-10-31 14:50:39,457 Hello, World!
+WARNING 2019-10-31 14:50:39,457 It seems to be a bug...
+CRITICAL 2019-10-31 14:50:39,457 Critical bug in app! Hello, World!
